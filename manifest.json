@@ -1,0 +1,6 @@
+{
+  "name": "polymer-google-login",
+  "short_name": "polymer-google-login",
+  "start_url": "/",
+  "display": "standalone"
+}
